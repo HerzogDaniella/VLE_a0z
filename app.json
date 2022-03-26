@@ -1,0 +1,16 @@
+{
+  "name": "VLE_a0z",
+  "description": "VLE_a0z",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "AUUID",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/HerzogDaniella/",
+  "repository": "",
+  "stack": "container"
+}
